@@ -1,0 +1,8 @@
+# Created by Kenney (www.kenney.nl)
+
+newmtl stone
+Kd 0.5803922 0.5686275 0.7686275
+
+newmtl stoneDark
+Kd 0.4 0.3882353 0.6470588
+

@@ -1,0 +1,32 @@
+# Made using Asset Forge (www.assetforge.io) version 1.3 
+
+newmtl black (Instance)
+Ka 0.000000 0.000000 0.000000 
+Kd 0.267 0.267 0.267 
+Ks 0.330000 0.330000 0.330000 
+
+newmtl _defaultMat (Instance)
+Ka 0.000000 0.000000 0.000000 
+Kd 1 1 1 
+Ks 0.330000 0.330000 0.330000 
+
+newmtl hilt (Instance)
+Ka 0.000000 0.000000 0.000000 
+Kd 0.596 0.231 1 
+Ks 0.330000 0.330000 0.330000 
+
+newmtl tire
+Ka 0.000000 0.000000 0.000000 
+Kd 0 0 0 
+Ks 0.330000 0.330000 0.330000 
+
+newmtl handle (Instance)
+Ka 0.000000 0.000000 0.000000 
+Kd 1 0.84 0.674 
+Ks 0.330000 0.330000 0.330000 
+
+newmtl lightStone (Instance)
+Ka 0.000000 0.000000 0.000000 
+Kd 0.812 0.808 0.855 
+Ks 0.330000 0.330000 0.330000 
+

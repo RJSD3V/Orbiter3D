@@ -1,0 +1,11 @@
+# Created by Kenney (www.kenney.nl)
+
+newmtl custom4
+Kd 0.048 0.048 0.048
+
+newmtl metalPurple
+Kd 1 0.195 0.195
+
+newmtl custom5
+Kd 0.248 0.183 0.161
+
